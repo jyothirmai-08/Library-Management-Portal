@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Python Programming",
+      "author": "John Smith",
+      "category": "Programming",
+      "totalCopies": 3,
+      "availableCopies": 3
+    },
+    {
+      "id": "2",
+      "title": "Web Development",
+      "author": "Jane Wilson",
+      "category": "Technology",
+      "totalCopies": 2,
+      "availableCopies": 2
+    },
+    {
+      "title": "java",
+      "author": "sam alton",
+      "category": "programming",
+      "totalCopies": 1,
+      "availableCopies": 0,
+      "id": "1793708091707"
+    }
+  ],
+  "members": [
+    {
+      "name": "Jyothirmai Edupuganti",
+      "email": "edupugantijyothirmai@gmail.com",
+      "phone": "1234567890",
+      "membershipDate": "2026-11-03",
+      "id": "1793708011066"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1793716191205",
+      "bookId": "1",
+      "bookTitle": "Python Programming",
+      "memberId": "1793708011066",
+      "memberName": "Jyothirmai Edupuganti",
+      "issueDate": "2026-11-03",
+      "dueDate": "2026-11-03",
+      "returnDate": "2026-11-03",
+      "status": "Returned"
+    }
+  ]
+}
